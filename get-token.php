@@ -1,5 +1,5 @@
 <?php
-$data = 'username=kpmgp-da9&password=aP4_K/VSPHq5&token=true';
+$data = 'username=&password=&token=true';
 
 //$json = json_encode($data);
 $url = 'https://gateway.qg1.apps.qualys.eu/auth';
